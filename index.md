@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
+Test Page :- Redirection to Custom URL Scheme
 
-<h2>Test Page :- Redirection to Custom URL Scheme</h2>
-
-<a href="prefs://">Open iOS Settings</a> 
-
-<p>
-
-</body>
-</html>
-
-
+<a href="prefs://root=General&path=About">Open iOS Settings</a> 
