@@ -1,4 +1,14 @@
-This is a demo test page
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The target Attribute</h2>
+
+<a href="prefs://">Open iOS Settings</a> 
+
+<p>
+
+</body>
+</html>
 
 
-prefs:root=General&path=About
